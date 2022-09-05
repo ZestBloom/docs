@@ -1,2 +1,2 @@
 # Zestbloom User Documentation
-1. [FAQs](#faqs.md)
+1. [FAQs](./faqs.md)
